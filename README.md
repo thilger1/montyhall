@@ -3,7 +3,7 @@
 
 I was recently reintroduced to the Monty Hall problem from a book I was reading. The scenario is as follows:
 
-  *You're on a game show with a host named Monty Hall. There's 3 doors. Hidden behind one of the doors is a car (which you want). You begin by choosing one of the doors. Monty, who knows what lies behind each door, opens one of the doors that you did not choose to show that there is no car behind it (some versions of this problem have a goat behind it, but that might be a win to some... I prefer win = car, loss = nothing). Monty then allows you to switch your initial door choice to the other remaining door if you so choose. Should you switch?*
+  *You're on a game show with a host named Monty Hall. There's 3 doors. Hidden behind one of the doors is a car (which you want). You begin by choosing one of the doors. Monty, who knows what lies behind each door, opens one of the doors that you did not choose. By opening this door, he reveals that there is no car behind it (some versions of this problem have a goat behind it, but that might be a win to some... I prefer win = car, loss = nothing). Monty then allows you to switch your initial door choice to the other remaining door if you so choose. Should you switch?*
 
 The correct answer is: you are more likely to win the car if you choose to switch doors every time. This problem is not intuitive to most, myself included. It seems that once Monty removes one of the two empty doors, you are left with a 50/50 choice, and therefore it does not matter whether or not you switch. 
 
